@@ -1,0 +1,1 @@
+<section class="promote_section">    <div class="container">        <h3>Promote your product to reach <br> customers worldwide.</h3> 		<a href="<?=WEB_ROOT?>vendor/promoteProducts"><button class="btn btn-primary promote_btn">Promote Now</button></a><br>		<a href="#"><button class="btn btn-primary support_btn">Support</button></a>    </div>     </section>

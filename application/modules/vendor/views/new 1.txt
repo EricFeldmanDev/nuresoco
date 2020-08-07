@@ -1,0 +1,34 @@
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Brown', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Tan', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Beige', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Pink', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Yellow', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Lvory', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Navy Blue', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Purple', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+INSERT INTO `attributes_categories` (`id`, `category`, `position`, `type`, `attribute_type`, `details`, `status`, `delete_status`, `create_date`, `modify_date`) VALUES (NULL, 'Gold', '0', 'checkbox', 'color', 'green', '1', '0', '2018-12-21 16:48:24', '2018-12-21 16:48:24');
+
+
+
+
+
+
+
+
+
+
